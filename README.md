@@ -42,7 +42,7 @@ Setup · Data · Cleaning · Fair split · Verified substitutions · Method 1 ·
 | Member 3 | Jolie | Method 1: TF-IDF + Logistic Regression, dev-set tuning and preprocessing check (Section 5) |
 | Member 4 | Manar | Method 2: MiniLM embeddings + Logistic Regression and the Try-it cell (Sections 6, 10) |
 
-All members worked together on the results, the error analysis (Sections 7–8), their own examples (Section 9), the report and the slides.
+All members worked together on the results, the error analysis (Sections 7–8), their own examples (Section 9), and the report.
 
 ## Credits
 scikit-learn, sentence-transformers (`all-MiniLM-L6-v2`, Apache-2.0), pandas, matplotlib. Parts of the code were drafted with help from Claude (Anthropic) and reviewed and tested by the team.
