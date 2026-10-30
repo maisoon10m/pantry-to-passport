@@ -37,9 +37,12 @@ Setup · Data · Cleaning · Fair split · Verified substitutions · Method 1 ·
 ## Team
 | Role | Name | Main technical contribution |
 |---|---|---|
-| Team leader | _name_ | _…_ |
-| Member 2 | _name_ | _…_ |
-| Member 3 | _name_ | _…_ |
+| Team leader | Maisoon | Data loading, cleaning and the fair train/dev/test split (Sections 1–3); coordinated the submission |
+| Member 2 | Wajd | Verified substitution table, reworded test set and coverage checks (Section 4) |
+| Member 3 | Jolie | Method 1: TF-IDF + Logistic Regression, dev-set tuning and preprocessing check (Section 5) |
+| Member 4 | Manar | Method 2: MiniLM embeddings + Logistic Regression and the Try-it cell (Sections 6, 10) |
+
+All members worked together on the results, the error analysis (Sections 7–8), their own examples (Section 9), the report and the slides.
 
 ## Credits
 scikit-learn, sentence-transformers (`all-MiniLM-L6-v2`, Apache-2.0), pandas, matplotlib. Parts of the code were drafted with help from Claude (Anthropic) and reviewed and tested by the team.
